@@ -1,0 +1,27 @@
+Sufficient coordinate input for a triangle.
+The object is a triangle.
+The perimeter of the triangle is: 1.70711 units 
+The area of the triangle is: 0.594604 sq. units 
+The triangle is not an equilateral triangle
+
+Sufficient coordinate input for a quadriliteral.
+The object is a Quadrilateral
+The area of the quadrilateral is: 1 sq. units 
+
+Sufficient coordinate input for a circle.
+The object is a circle.
+Radius of the circle: 1.41421 units 
+Diameter of the circle: 2.82843 units 
+The circumference of the circle is: 8.88577 units 
+The area of the circle is: 6.28319 sq. units 
+
+Sufficient coordinate input for a triangle.
+The object is not a triangle
+
+Sufficient coordinate input for a quadriliteral.
+The object is a Quadrilateral
+The area of the quadrilateral is: 6.25 sq. units 
+
+Sufficient coordinates NOT input.
+
+Forgive me I don't know how to spell quadrililteral
